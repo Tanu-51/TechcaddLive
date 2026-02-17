@@ -1,0 +1,210 @@
+monkeytype.com for typing 
+ three ways to open vs code
+1. Type cmd n folder then write (code .) in cmd
+2. ctrl + k + o to open folder
+3. another is new file
+
+DNS 
+boiler plate 
+tags
+angular brackets 
+biggest tag html
+doctype latest html5 <!IT MEANS THIS DOCUMENT is built in html5 usdi type html hai 
+favicon title picture name
+white area known as viewport
+viewport length width
+inspect three dots doc option
+lang = attribute
+eng = property
+pair tag = content
+single tag = attricute
+meta
+UTF-8 
+Ctrl+L for select entire line in vs code
+use tab button for enter 
+alt+shift+down arrow
+shortcut for paragraph writing = lorem100 lorem 10
+img tag in source put image copied address
+img ./
+alt= alternative
+alt show text if image not visible
+anchor tag href + image 
+y2mate downloader for youtube  video7
+anchor for video clickable link
+video tag using ./ controls
+infinity slash  
+assets folder
+order list
+unordered list
+embed code iframe 
+for location also 
+frame border 
+hr tag for line
+
+span tag is inline
+
+http port no. 80
+SSH 22
+FTp 21
+6535 limited to ports
+TCP transmission  thre way handshake  1. sync 2. sync acknowledgement 3. acknowledgement
+UdP user gram data 
+Osi model open system interconnection = 7 layers 
+1. application layer  data 
+2. presentation layer data
+3. session layer data
+4. TRANSPORT layer segments
+5. NETWORK layer'
+6. dLL
+7.Physical layer hardware 
+mac address is of device
+ip address is of network connected
+mailto
+tel:
+formatting tags
+bold tag
+italic tag
+underline tag
+strong tag kind of bold tag
+structure tags
+header tag
+main tag
+section tag(multiple sections)
+footer tag = &copy; for footer tag
+window+. shortcut
+symbol can be copied from browser and paste it into vs code
+
+aside tag
+div tag
+superscript
+subscript
+pre tag for poems writing extra spaces counted in thiss
+by default
+p*10 means 10 paragraphs will be written
+parent
+child
+sibling
+emmet abbreviations
+div>p+h1+div>p
+curly bracket used to enter data in it
+like div>p{ helo}
+attributes
+class and id
+class name dont start with number with alphabets only
+<div class="box-1"> </div>
+shortcut alt plus click on cursor and it will create multiple typing
+MDN docs to solve any kind of doubt
+tag can contain tag
+attribute can't contain an attribute inside this like class qttribute
+multiple tags di same class ho skdia
+but multiple class di same id nahi ho skdi
+id will be used using hashtag #
+class will be written using dot . 
+camel casing  means kise v text da first word capital karna like HelloWorld (its a convention)
+span tag oni hi space layu jinni lod a inline element
+div tag bht space lenda and also known as block tag
+
+list can contain multiple lists inside this and images videos also known as nested list
+
+
+1. table tag
+
+row column
+thead field names
+1. tr table row
+tbody data
+ tr table row
+th thead
+td table data
+table border ="1"
+colspan to merge columns
+rowspan 
+
+
+flexbox= css concept
+
+
+form tag
+ACTION Attribute 
+submit button concept of javascript
+html is not a case sensitive
+ctrl+/ =comment in html shortcut
+placeholder
+input label
+radio button
+gender
+checkbox
+textbox
+date
+value
+textarea
+password
+telephone
+number in textbox
+url
+color
+fieldset
+legend tag
+input type="file" we can choose file and upload in it
+FAQ's
+detail tag
+summary <summary>
+paragrapah <p>\
+
+
+favicon topic
+favicon generator website
+link tag is used 
+ranking algorithm 
+SEo= search engine in detail when javascript done with meta tags
+GitHub with seo
+GitHub online git offline local pc's, we can connect it with server
+
+x64= server
+64= only pc use
+terminal name as gitbash
+git --version you will know the version
+git update-git-for-windows= to update git
+[ pwd ]= CLI command line interface is where that our directory is where
+terminal  another name CLI
+ pwd= print working  directory
+cd ../= to come back from directory( cd = change directory)
+
+cd and you want to go another directory copy it and paste it with pwd (change the slash like this (/)
+ctrl +c to clear written command
+ls=
+shift+ins== paste
+ls-a command= show hidden files
+cd GitHub to go to that particular folder
+mkdir= to create new folder or directory (make directory)
+rm = to remove directory
+touch cat.txt= to create new file
+rmdir * to clear entire folder
+rm *
+code . = to open vs code + that folder where we want
+code command = only open vs code
+touch index.html will open vs code index coding file
+start index.html
+code index.html
+touch app.py
+start app.py
+start abc.mp3 music player folder
+clear command = to clear git code
+git init =  empty git repository empty space (GitHub di repository
+two branch
+main
+master
+git to GitHub code = commit the code or push the code
+mergeconflict handled by GitHub
+git add . = to add data in repository of git or GitHub
+staging area
+git branch -m main only to use
+git commit -m  "initial commit" to see what changes had made committed to git 
+git log to know what we have done
+git remote  -v not linked
+git remote add origin add url now git and GitHub is connected 
+
+git push -u origin master to push the code into main branch of GitHub
+click on compare to pull 
+gitignore
+deployment
