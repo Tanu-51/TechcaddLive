@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-color: #222;
+}
+.n1{
+    background-color:#343a40;
+    padding:10px 18px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+}
+
+.l1 {
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+
+}
+.nav2 {
+display:flex;
+gap:20px;
+}
+.nav2 a{
+    text-decoration: none;
+    color:white;
+    font-size:15px;
+
+}
+.nav2 .Disabled{
+    color:grey;
+}
+
+.search-box input{
+    padding:6px 10px;
+    border: 1px solid grey;
+    border-radius:4px;
+    background-color:black;
+    color:white;
+
+}
+
+.search-box button{
+    padding:6px 12px;
+    border:1px solid green;
+    background-color:transparent;
+    color:#28a745;
+    border-radius:4px;
+
+}
+
